@@ -20,8 +20,8 @@ def printer(attendees) #WORK ON THIS!
   puts tempArray[0]
 end
 
-sampleArray = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+#sampleArray = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 #puts batch_badge_creator(sampleArray)
 #puts "and THIS!"
-puts assign_rooms(sampleArray)
+#puts assign_rooms(sampleArray)
