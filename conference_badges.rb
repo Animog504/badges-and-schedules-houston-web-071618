@@ -16,7 +16,7 @@ end
 
 def printer(attendees) #WORK ON THIS!
   tempArray = []
-  tempArray = assign_rooms(attendees)
+  tempArray = batch_badge_creator(attendees)
   puts tempArray
   
 end
