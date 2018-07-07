@@ -17,8 +17,8 @@ end
 def printer(attendees) #WORK ON THIS!
   tempArray = []
   tempArray = assign_rooms(attendees)
-  #puts tempArray[0]
-  puts "Hello, my name is Edsger."
+  puts tempArray
+  
 end
 
 sampleArray = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
