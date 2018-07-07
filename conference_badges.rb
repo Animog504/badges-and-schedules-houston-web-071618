@@ -18,7 +18,7 @@ def printer(attendees) #WORK ON THIS!
   tempArray = []
   tempArray = batch_badge_creator(attendees)
   
-  tempArray.each_with_index {|e,x| puts "#{tempArray[x]}"}
+  attendees.each_with_index {|e,x| badge_maker(e)}
   
 end
 
