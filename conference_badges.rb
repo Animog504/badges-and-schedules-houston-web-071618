@@ -17,7 +17,7 @@ end
 def printer(attendees) #WORK ON THIS!
   tempArray = []
   tempArray = batch_badge_creator(attendees)
-  puts tempArray[0]
+  puts tempArray[1]
   
 end
 
